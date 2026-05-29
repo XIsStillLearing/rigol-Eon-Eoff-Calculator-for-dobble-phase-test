@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+dpt_analysis_out/
+analysis_out/
+program_analysis*/
+*_analysis_out/
+*.log
+
